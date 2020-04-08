@@ -1,6 +1,6 @@
 [ 
     {
-      data: [
+      "data": [
         "Hedwig F. Nguyen",
         "Arcu Vel Foundation",
         "9875",
@@ -11,7 +11,7 @@
       ]
     },
     {
-      data: [
+      "data": [
         "Genevieve U. Watts",
         "Eget Incorporated",
         "9557",
@@ -20,10 +20,10 @@
         "0800 025698",
         "<a href='//www.dell.com'>Dell Home Page</a>"
       ],
-      details: "Genevieve U. Watts details"
+      "details": "Genevieve U. Watts details"
     },
     {
-      data: [
+      "data": [
         "Kyra S. Baldwin",
         "Lorem Vitae Limited",
         "3854",
@@ -32,10 +32,10 @@
         "0800 237 8846",
         "<a href='//www.dell.com'>Dell Home Page</a>"
       ],
-      details: "Kyra S. Baldwin details"
+      "details": "Kyra S. Baldwin details"
     },
     {
-      data: [
+      "data": [
       "Stephen V. Hill",
       "Eget Mollis Institute",
       "8820",
@@ -44,10 +44,10 @@
       "0800 682 4591",
         "<a href='//www.dell.com'>Dell Home Page</a>"
       ],
-      details: "Stephen V. Hill details"
+      "details": "Stephen V. Hill details"
     },
     {
-      data: [
+      "data": [
       "Vielka Q. Chapman",
       "Velit Pellentesque Ultricies Institute",
       "2307",
@@ -56,10 +56,10 @@
       "0800 181 5795",
         "<a href='//www.dell.com'>Dell Home Page</a>"
       ],
-      details: "Vielka Q. Chapman details"
+      "details": "Vielka Q. Chapman details"
     },
     {
-      data: [
+      "data": [
       "Ocean W. Curtis",
       "Eu Ltd",
       "6868",
@@ -68,10 +68,10 @@
       "(016977) 9585",
         "<a href='//www.dell.com'>Dell Home Page</a>"
       ],
-      details: "Ocean W. Curtis details"
+      "details": "Ocean W. Curtis details"
     },
     {
-      data: [
+      "data": [
       "Kato F. Tucker",
       "Vel Lectus Limited",
       "4713",
@@ -80,10 +80,10 @@
       "070 0981 8503",
         "<a href='//www.dell.com'>Dell Home Page</a>"
       ],
-      details: "Kato F. Tucker details"
+      "details": "Kato F. Tucker details"
     },
     {
-      data: [
+      "data": [
       "Robin J. Wise",
       "Curabitur Dictum PC",
       "3285",
@@ -92,10 +92,10 @@
       "0800 259158",
         "<a href='//www.dell.com'>Dell Home Page</a>"
       ],
-      details: "Robin J. Wise details"
+      "details": "Robin J. Wise details"
     },
     {
-      data: [
+      "data": [
       "Uriel H. Guerrero",
       "Mauris Inc.",
       "2294",
@@ -104,10 +104,10 @@
       "0500 948772",
         "<a href='//www.dell.com'>Dell Home Page</a>"
       ],
-      details: "Uriel H. Guerrero details"
+      "details": "Uriel H. Guerrero details"
     },
     {
-      data: [
+      "data": [
       "Yasir W. Benson",
       "At Incorporated",
       "3897",
@@ -118,7 +118,7 @@
       ]
     },
     {
-      data: [
+      "data": [
       "Shafira U. French",
       "Nisi Magna Incorporated",
       "5116",
@@ -127,10 +127,10 @@
       "(018013) 26699",
         "<a href='//www.dell.com'>Dell Home Page</a>"
       ],
-      details: "Shafira U. French details"
+      "details": "Shafira U. French details"
     },
     {
-      data: [
+      "data": [
       "Casey E. Hood",
       "Lorem Vitae Odio Consulting",
       "7079",
@@ -139,10 +139,10 @@
       "0800 570796",
         "<a href='//www.dell.com'>Dell Home Page</a>"
       ],
-      details: "Casey E. Hood details"
+      "details": "Casey E. Hood details"
     },
     {
-      data: [
+      "data": [
       "Caleb X. Finch",
       "Elit Associates",
       "3629",
@@ -151,6 +151,6 @@
       "056 1551 7431",
         "<a href='//www.dell.com'>Dell Home Page</a>"
       ],
-      details: "Caleb X. Finch details"
+      "details": "Caleb X. Finch details"
     }
   ]
